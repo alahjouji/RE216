@@ -1,0 +1,8 @@
+/home/abdou/re216_LAHJOUJI_GADDAH/build/jalon01/CMakeFiles/RE216_JALON01_CLIENT.dir
+/home/abdou/re216_LAHJOUJI_GADDAH/build/jalon01/CMakeFiles/RE216_JALON01_SERVER.dir
+/home/abdou/re216_LAHJOUJI_GADDAH/build/jalon02/CMakeFiles/RE216_JALON02_CLIENT.dir
+/home/abdou/re216_LAHJOUJI_GADDAH/build/jalon02/CMakeFiles/RE216_JALON02_SERVER.dir
+/home/abdou/re216_LAHJOUJI_GADDAH/build/jalon03/CMakeFiles/RE216_JALON03_CLIENT.dir
+/home/abdou/re216_LAHJOUJI_GADDAH/build/jalon03/CMakeFiles/RE216_JALON03_SERVER.dir
+/home/abdou/re216_LAHJOUJI_GADDAH/build/jalon04/CMakeFiles/RE216_JALON04_CLIENT.dir
+/home/abdou/re216_LAHJOUJI_GADDAH/build/jalon04/CMakeFiles/RE216_JALON04_SERVER.dir
